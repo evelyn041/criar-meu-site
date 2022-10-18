@@ -1,14 +1,41 @@
-<!Docipty>
-<html lang="pt-br">
+<!DOCTYPE html>
+<html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Barbearia Alura</title>
-		<link rel="stylesheet" href="style.css">
-	<head>
+		<title>Produtos - perfumaria </title>
 
+		<link rel="stylesheet" href="reset.css">
+		<link rel="stylesheet" href="produtos.css">
+	</head>
 	<body>
-  
-  <head>
-  <h1 class="titulo-principal"> vendas de flores em geral <h1>
-  <head>
-   <img id="banner" src=
+		<header>
+			<div class="caixa">
+				<h1><img src="logo.png"></h1>
+
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header> 
+        <main>
+			<ul class="produtos">
+				<li>
+					<h2>perfume</h2>
+					<img src=8848376659998.webp>
+					<p class="produto-descricao"> perfume coco mademoiselle chanel paris </p>chanel
+					<p class="produto-preco"> R$ 1.200.00 </p>
+				</li>
+			
+			</ul>
+		</main>
+
+		<footer>
+			<img src="logo-branco.png">
+			<p class="copyright">&copy; Copyright perfumaria</p>
+		</footer>
+	</body>
+</html>
