@@ -25,17 +25,17 @@
 			<ul class="produtos">
 				<li>
 					<h2>perfume</h2>
-					<img src=8848376659998.webp>
-					<p class="produto-descricao"> perfume coco mademoiselle chanel paris </p>chanel
+					<img src="8848376659998.webp" alt="Image" height="700" width="800">
+					<p class="produto-descricao"> perfume coco mademoiselle chanel paris</p>
 					<p class="produto-preco"> R$ 1.200.00 </p>
 				</li>
 			
 			</ul>
 		</main>
-
 		<footer>
 			<img src="logo-branco.png">
 			<p class="copyright">&copy; Copyright perfumaria</p>
 		</footer>
 	</body>
 </html>
+             
