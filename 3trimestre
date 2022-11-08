@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title>Produtos - perfumaria </title>
-
-		<link rel="stylesheet" href="reset.css">
-		<link rel="stylesheet" href="produtos.css">
-	</head>
-	<body>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title> perfumaria </title>
+</head>
+<body>  
+	
 		<header>
 			<div class="caixa">
 				<h1><img src="logo.png"></h1>
@@ -24,7 +25,7 @@
         <main>
 			<ul class="produtos">
 				<li>
-					<h2>perfume</h2>
+					<h2> perfume importado </h2>
 					<img src="8848376659998.webp" alt="Image" height="700" width="800">
 					<p class="produto-descricao"> perfume coco mademoiselle chanel paris</p>
 					<p class="produto-preco"> R$ 1.200.00 </p>
@@ -38,4 +39,4 @@
 		</footer>
 	</body>
 </html>
-             
+ 
