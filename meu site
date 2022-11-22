@@ -1,25 +1,37 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> perfumaria </title>
-	<link rel="stylesheet" href="style.css">
+	<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> perfumaria </title>
+		<link rel="stylesheet" href="sit.css">
+	
+	</head>
+	<body>  
+		<nav>
+			<ul>
+				<li>
+					<a href="sit.html"> sobre o produto</a>
+				</li> 
+				<li>
+					<a href="valor.html">valor</a>
+				</li>
+				<li>
+					<a href="contato.html">contato</a>
+				</li>
+			</ul> 
+		</nav>
+		<header>
+			<img src="8848376659998.webp"><img>
+	<body>
+	<html>
+ 
 
-</head>
-<body>  
-	        
-    <nav>
-        <ul>
-            <li>
-                <a>sobre o produto</a>
-			</li> 
-			<li>
-                <a>contato</a>
-			</li>
-			
-		</ul> 
+<body>
+<html>
     </nav>
 <body>
+35
+7
 <html>
